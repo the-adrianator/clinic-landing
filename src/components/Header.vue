@@ -18,7 +18,7 @@
 
 			 <!-- Mobile Menu Button -->
 				<button type="button" class="lg:hidden focus:outline-none focus:ring-2 focus:ring-pink-600 rounded" aria-label="Toggle menu" @click="toggleMenu" :aria-expanded="isMobileMenuOpen.toString()" aria-controls="mobile-menu">
-					<icon :icon="isMobileMenuOpen ? 'mdi:close' : 'mdi:menu'" class="w-6 h-6" />
+					<Icon :icon="isMobileMenuOpen ? 'mdi:close' : 'mdi:menu'" class="w-6 h-6" />
 				</button>
 		</div>
 
