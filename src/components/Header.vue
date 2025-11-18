@@ -3,9 +3,7 @@
 		<div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
 			<!-- Logo -->
 			<a href="/" class="flex items-center focus:outline-none focus:ring-2 focus:ring-pink-600 rounded">
-				<h1 class="text-2xl font-bold text-pink-600">
-					Glades Clinic
-				</h1>
+				Glades Clinic
 			</a>
 
 			<!-- Desktop navigation -->
@@ -20,7 +18,7 @@
 
 			 <!-- Mobile Menu Button -->
 				<button type="button" class="lg:hidden focus:outline-none focus:ring-2 focus:ring-pink-600 rounded" aria-label="Toggle menu" @click="toggleMenu" :aria-expanded="isMobileMenuOpen.toString()" aria-controls="mobile-menu">
-					<icon :icon="isMobileMenuOpen ? 'mdi:close' : 'mdi:menu'" class="w-6 h-6" />
+					<Icon :icon="isMobileMenuOpen ? 'mdi:close' : 'mdi:menu'" class="w-6 h-6" />
 				</button>
 		</div>
 

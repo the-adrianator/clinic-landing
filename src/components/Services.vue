@@ -45,25 +45,25 @@ const services = ref([
 	{
 		icon: 'fa-solid:clinic-medical',
 		title: 'Facelift Procedures',
-		description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.',
+		description: 'Comprehensive surgical solutions to restore youthful contours and reduce visible signs of aging. Our expert techniques deliver natural-looking results that enhance your facial harmony and boost confidence.',
 		link: '#facelift'
 	},
 	{
 		icon: 'fa-solid:user-md',
 		title: 'Botox & Fillers',
-		description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.',
+		description: 'Non-invasive treatments that smooth wrinkles and restore facial volume with minimal downtime. Precision injections target specific areas to achieve subtle, natural enhancements tailored to your unique features.',
 		link: '#botox'
 	},
 	{
 		icon: 'fa-regular:smile',
 		title: 'Laser Treatments',
-		description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.',
+		description: 'Advanced laser technology addresses pigmentation, fine lines, and skin texture concerns for comprehensive rejuvenation. Our state-of-the-art systems deliver visible improvements with customizable treatment protocols.',
 		link: '#laser'
 	},
 	{
 		icon: 'fa-solid:syringe',
 		title: 'Body Contouring',
-		description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.',
+		description: 'Sculpt and refine your silhouette through targeted fat reduction and body shaping techniques. Our personalized approach helps you achieve your desired contours with both surgical and non-surgical options available.',
 		link: '#contouring'
 	},
 ])
