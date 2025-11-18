@@ -47,9 +47,9 @@ import { ref } from 'vue'
 const navLinks = ref([
 	{ label: 'Home', href: '#home' },
 	{ label: 'Services', href: '#services' },
-	{ label: 'About', href: '#about' },
-	{ label: 'Specialists', href: '#specialists' },
-	{ label: 'Contact', href: '#contact' },
+	{ label: 'About Us', href: '#about' },
+	{ label: 'Our Specialists', href: '#specialists' },
+	{ label: 'Contact Us', href: '#contact' },
 ])
 
 const isMobileMenuOpen = ref(false)
