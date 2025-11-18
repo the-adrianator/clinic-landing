@@ -3,7 +3,9 @@
 		<div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
 			<!-- Logo -->
 			<a href="/" class="flex items-center focus:outline-none focus:ring-2 focus:ring-pink-600 rounded">
-				Glades Clinic
+				<h1 class="text-2xl font-bold text-pink-600">
+					Glades Clinic
+				</h1>
 			</a>
 
 			<!-- Desktop navigation -->
