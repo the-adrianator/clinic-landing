@@ -5,10 +5,10 @@
         <!-- Clinic info -->
         <section class="lg:col-span-2">
           <header class="flex items-center mb-6">
-            <Icon
-              icon="fa-solid:clinic-medical"
-              aria-hidden="true"
-              class="text-3xl text-pink-500 mr-3"
+            <img
+              src="@assets/logo.png"
+              alt="Glades Clinic Logo"
+              class="w-14 h-14"
             />
             <h2 class="text-2xl font-bold">Glades Clinic</h2>
           </header>
