@@ -14,7 +14,7 @@
           </header>
           <p class="text-gray-400 mb-6">
             Premier cosmetic clinic dedicated to enhancing your natural beauty
-            with state-of-the-art treatments and personalizedexpert care.
+            with state-of-the-art treatments and personalized expert care.
           </p>
           <nav aria-label="Social Media Links">
             <ul class="flex space-x-4">
