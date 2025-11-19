@@ -72,7 +72,7 @@
             <h2 class="text-2xl font-bold text-gray-800 mb-6">
               Send Us a Message
             </h2>
-            <form action="" class="space-y-6">
+            <form class="space-y-6" @submit.prevent>
               <fieldset class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
                   <label for="name" class="block text-gray-700 font-medium mb-2"
