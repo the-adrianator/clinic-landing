@@ -74,7 +74,7 @@ const specialists = ref([
 		image: Image1,
 		bio: "Dr. Gina Robson is a board-certified plastic surgeon with over 20 years of experience. She is a member of the American Society of Plastic Surgeons and the American Medical Association.",
 		rating: 5,
-		specialities: ["Facelists", "Blerpharoplasty", "Rhinoplasty"],
+		specialities: ["Facelifts", "Blepharoplasty", "Rhinoplasty"],
 	},
 	{
 		id: 2,
