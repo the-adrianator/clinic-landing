@@ -15,7 +15,7 @@
           aria-hidden="true"
         ></span>
         <h2
-          id="specialists-heading"
+          id="contact-heading"
           class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 relative"
         >
           Contact
@@ -108,7 +108,7 @@
                   >Email Address</label
                 >
                 <input
-                  type="tel"
+                  type="email"
                   id="email"
                   name="email"
                   placeholder="your@email.com"
