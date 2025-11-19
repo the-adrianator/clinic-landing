@@ -85,7 +85,7 @@
       <!-- Newsletter -->
       <section
         class="bg-gray-800 rounded-xl px-8 py-6 mb-12"
-        aria-labelledBy="newsletter-heading"
+        aria-labelledby="newsletter-heading"
       >
         <div class="flex flex-col lg:flex-row items-center justify-between">
           <div class="mb-6 lg:mb-0 lg:mr-8">
