@@ -50,10 +50,10 @@
 						<div class="relative z-10">
 							<h3 class="text-2xl md:text-3xl font-bold text-gray-800 mb-6">Ready to Consult with Our Specialists?</h3>
 							<p class="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">Book a personalized consultation to discuss your aesthetic goals and treatment options</p>
-							<nav class="flex flex-col sm:flex-row justify-center gap-4">
-								<a href="#appointment" class="bg-pink-600 hover:bg-pink-700 text-white text-center px-6 py-3 rounded-full inline-block transition shadow-md focus:outline-none focus:ring-2 focus:ring-pink-800 focus:ring-offset-2">Book Consultation</a>
-								<a href="#contact" class="border border-pink-600 text-pink-600 hover:bg-pink-50 px-8 py-3 rounded-full transition focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2" aria-label="Contact Us">Contact Us</a>
-							</nav>
+<div class="flex flex-col sm:flex-row justify-center gap-4">
+    <a href="#appointment" class="bg-pink-600 hover:bg-pink-700 text-white text-center px-6 py-3 rounded-full inline-block transition shadow-md focus:outline-none focus:ring-2 focus:ring-pink-800 focus:ring-offset-2">Book Consultation</a>
+    <a href="#contact" class="border border-pink-600 text-pink-600 hover:bg-pink-50 px-8 py-3 rounded-full transition focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2">Contact Us</a>
+</div>
 						</div>
 					</aside>
 		</div>
