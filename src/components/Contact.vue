@@ -34,7 +34,11 @@
       <!-- Main Content -->
       <main class="flex flex-col lg:flex-row gap-12">
         <aside class="lg:w-2/5">
-          <section class="bg-white rounded-2xl shadow-xl p-8 h-full">
+          <section
+            data-aos="fade-up"
+            data-aos-delay="500"
+            class="bg-white rounded-2xl shadow-xl p-8 h-full"
+          >
             <h2 class="text-2xl font-bold text-gray-800 mb-6">Get in Touch</h2>
             <address class="space-y-6">
               <article
@@ -68,7 +72,11 @@
 
         <!-- Contact Form -->
         <section class="lg:w-3/5">
-          <div class="bg-white rounded-2xl shadow-xl p-8 h-full">
+          <div
+            data-aos="fade-up"
+            data-aos-delay="600"
+            class="bg-white rounded-2xl shadow-xl p-8 h-full"
+          >
             <h2 class="text-2xl font-bold text-gray-800 mb-6">
               Send Us a Message
             </h2>
