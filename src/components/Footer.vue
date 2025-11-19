@@ -40,7 +40,7 @@
           >
             Quick Links
           </h3>
-          <nav aria-label="Social Media Links">
+          <nav aria-label="Quick Links">
             <ul class="space-y-3">
               <li v-for="(link, index) in quickLinks" :key="index">
                 <a
